@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP|Open+Sans');
+/*
+ use this fonts
+font-family: 'Open Sans', sans-serif;
+font-family: 'Noto Serif JP', sans-serif;
+
+*/
+
+body{
+    /* default body settings */
+    background: rgb(233, 90, 90);
+    margin: 0;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+}
