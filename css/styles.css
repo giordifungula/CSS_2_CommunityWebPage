@@ -43,6 +43,12 @@ font-family: 'Noto Serif JP', sans-serif;
     float: left;
     width: 50%;
   }
+  nav a{
+      /* color:rgb(150, 34, 34)150, 34, 34)148, 34, 34)148, 34, 34); */
+  }
+  .Special_Nav{
+      background: linear-gradient(to left, rgb(139, 82, 82), rgb(95, 170, 45));
+  }
   
   footer {
     clear: both;
